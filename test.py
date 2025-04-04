@@ -54,5 +54,3 @@ elif pv1 > pv2:
 else:
     print(name2, ' remporte le combat')
 
-# pour l'instant Ça va PAS ... c'est plus compliqué que j'imaginai, mais bon c'est normale j'apprends
-
